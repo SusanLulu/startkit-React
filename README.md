@@ -4,11 +4,11 @@
 
 - make React part, just using 'main.js'
 - separate different modules into 4 main parts: 
-&emsp; (view)
-&emsp;   containers & conponents
-&emsp; redux(actions)
-&emsp; redux(reducers)
-&emsp; redux(store)
+</br> (view)
+</br>&emsp;   containers & conponents
+</br> redux(actions)
+</br> redux(reducers)
+</br> redux(store)
 ---------------
 #### Run the project
 
