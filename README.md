@@ -1,7 +1,7 @@
 # This is the exercise for ' React-redux start kit'
 
 ##### just make a button to add up 
-![](file:///Users/user/Desktop/螢幕快照%202017-07-31%2021.16.53.png)
+![sample]https://github.com/SusanLulu/startkit-React/raw/master/samplePic.png
 
 - make React part, just using 'main.js'
 - separate different modules into 4 main parts: 
