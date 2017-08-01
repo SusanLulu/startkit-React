@@ -3,13 +3,14 @@
 ##### just make a button to add up 
 ![sample](https://github.com/SusanLulu/startkit-React/raw/master/samplePic.png)
 
-- make React part, just using 'main.js'
-- separate different modules into 4 main parts: 
-</br>- (view)
+</br>
+- React part: using 'main.js'
+- separate modules & Redux part(4 main parts): 
+</br>-- (view)
 </br>&emsp;   containers & conponents
-</br>- redux(actions)
-</br>- redux(reducers)
-</br>- redux(store)
+</br>-- redux(actions)
+</br>-- redux(reducers)
+</br>-- redux(store)
 ---------------
 #### Run the project
 
