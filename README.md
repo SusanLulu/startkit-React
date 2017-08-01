@@ -1,14 +1,15 @@
 # This is the exercise for ' React-redux start kit'
 
 ##### just make a button to add up 
+![](file:///Users/user/Desktop/螢幕快照%202017-07-31%2021.16.53.png)
 
 - make React part, just using 'main.js'
 - separate different modules into 4 main parts: 
-</br> (view)
+</br>- (view)
 </br>&emsp;   containers & conponents
-</br> redux(actions)
-</br> redux(reducers)
-</br> redux(store)
+</br>- redux(actions)
+</br>- redux(reducers)
+</br>- redux(store)
 ---------------
 #### Run the project
 
