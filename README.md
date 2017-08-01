@@ -3,7 +3,6 @@
 ##### just make a button to add up 
 ![sample](https://github.com/SusanLulu/startkit-React/raw/master/samplePic.png)
 
-</br>
 - React part: using 'main.js'
 - separate modules & Redux part(4 main parts): 
 </br>-- (view)
@@ -11,6 +10,7 @@
 </br>-- redux(actions)
 </br>-- redux(reducers)
 </br>-- redux(store)
+
 ---------------
 #### Run the project
 
